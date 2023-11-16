@@ -1,66 +1,6 @@
 {
   "membros": [
     {
-      
-      "token": "",
-      "nome": "",
-      "foto": "",
-      "endereco": {
-        "rua": "",
-        "numero": "",
-        "complemento": "",
-        "bairro": "",
-        "email":"",
-        "password":"",
-        "confirmpassword":""
-      },
-      "telefone": "",
-      "dataNascimento": "",
-      "filiacao": {
-        "pai": "",
-        "mae": ""
-      },
-      "membroDesde": "",
-      "congregacao": "",
-      "area": "",
-      "nucleo": "",
-      "zona": "",
-      "regiao": "",
-      "doacao": {
-        "ofertaAlcada": "",
-        "dizimo": "",
-        "voto": ""
-      },
-      "cargo": {
-        "membro": "",
-        "diácono(a)": "",
-        "pastor(a)": ""
-      },
-      "autorizacao": "",
-      "dirigente": "",
-      "pastorDeArea": "",
-      "tesoureiro": ""
-    }
-  ],
-  "congregacoes": [
-    {
-      "id": "",
-      "nome": "",
-      "numero": "",
-      "foto": "",
-      "endereco": {
-        "rua": "",
-        "nº": "",
-        "bairro": "",
-        "complemento": ""
-      },
-      "areaEclesiastica": "",
-      "dirigente": "",
-      "pastorArea": "",
-      "nucleo": "",
-      "zona": ""
-    },
-    {
       "token": "",
       "nome": "Aldair da Silva Barros",
       "foto": "",
@@ -99,7 +39,27 @@
       "dirigente": "",
       "pastorDeArea": "",
       "tesoureiro": ""
+    }
+  ],
+  "congregacoes": [
+    {
+      "id": "",
+      "nome": "",
+      "numero": "",
+      "foto": "",
+      "endereco": {
+        "rua": "",
+        "nº": "",
+        "bairro": "",
+        "complemento": ""
+      },
+      "areaEclesiastica": "",
+      "dirigente": "",
+      "pastorArea": "",
+      "nucleo": "",
+      "zona": ""
     },
+    
     [
       {
         "nome": "Templo Central",
