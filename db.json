@@ -1,84 +1,24 @@
 {
- 
-    "membros": [
-      {
-        "id": "",
-        "token": "",
-        "nome": "",
-        "foto":"",
-        "endereco": {
-            "rua": "",
-            "numero": "",
-            "complemento":"",
-            "bairro": ""
-        },
-        "telefone": "",
-        "dataNascimento": "",
-        "filiacao": {
-            "pai": "",
-            "mae": ""
-        },
-        "membroDesde": "",
-        "congregacao": "",
-        "area": "",
-        "nucleo": "",
-        "zona": "",
-        "regiao": "",
-        "doacao": {
-            "ofertaAlcada": "",
-            "dizimo": "",
-            "voto": ""
-        },
-        "cargo":{
-          "membro": "",
-          "diácono(a)":"",
-          "pastor(a)":""
-        },
-        "autorizacao": "",
-        "dirigente": "",
-        "pastorDeArea": "",
-        "tesoureiro": ""
-      }
-    ],
-    
-    "congregacoes": [
-      {
-        "id":"",
-        "nome":"",
-        "numero":"",
-        "foto":"",
-        "endereco":{
-          "rua": "",
-          "nº": "",
-          "bairro":"",
-          "complemento":""
-        },
-          "areaEclesiastica":"",
-          "dirigente":"",
-          "pastorArea":"",
-          "nucleo":"",
-          "zona":""
-
-      }
-    ],
-
-  "pastores": [
+  "membros": [
     {
-      "id": "",
+      
       "token": "",
       "nome": "",
-      "foto":"",
+      "foto": "",
       "endereco": {
-          "rua": "",
-          "numero": "",
-          "bairro": ""
+        "rua": "",
+        "numero": "",
+        "complemento": "",
+        "bairro": "",
+        "email":"",
+        "password":"",
+        "confirmpassword":""
       },
-      "complemento":"",
       "telefone": "",
       "dataNascimento": "",
       "filiacao": {
-          "pai": "",
-          "mae": ""
+        "pai": "",
+        "mae": ""
       },
       "membroDesde": "",
       "congregacao": "",
@@ -87,14 +27,91 @@
       "zona": "",
       "regiao": "",
       "doacao": {
-          "ofertaAlcada": "",
-          "dizimo": "",
-          "voto": ""
+        "ofertaAlcada": "",
+        "dizimo": "",
+        "voto": ""
       },
-      "cargo":{
+      "cargo": {
         "membro": "",
-        "diácono(a)":"",
-        "pastor(a)":""
+        "diácono(a)": "",
+        "pastor(a)": ""
+      },
+      "autorizacao": "",
+      "dirigente": "",
+      "pastorDeArea": "",
+      "tesoureiro": ""
+    }
+  ],
+  "congregacoes": [
+    {
+      "id": "",
+      "nome": "",
+      "numero": "",
+      "foto": "",
+      "endereco": {
+        "rua": "",
+        "nº": "",
+        "bairro": "",
+        "complemento": ""
+      },
+      "areaEclesiastica": "",
+      "dirigente": "",
+      "pastorArea": "",
+      "nucleo": "",
+      "zona": ""
+    },
+    [
+      {
+        "nome": "Templo Central",
+        "numero": "01",
+        "complemento": "",
+        "foto": "",
+        "endereco": {
+          "rua": "Rua Duque de Caxias",
+          "nº": "",
+          "bairro": "Centro",
+          "areaEclesiastica": "1",
+          "dirigente": "Pastor Jonatas Camara",
+          "pastorArea": "Pastor Jonatas Camara",
+          "nucleo": "01",
+          "zona": "Sul"
+        }
+      }
+    ]
+  ],
+  "pastores": [
+    {
+      "id": "",
+      "token": "",
+      "nome": "",
+      "foto": "",
+      "endereco": {
+        "rua": "",
+        "numero": "",
+        "bairro": ""
+      },
+      "complemento": "",
+      "telefone": "",
+      "dataNascimento": "",
+      "filiacao": {
+        "pai": "",
+        "mae": ""
+      },
+      "membroDesde": "",
+      "congregacao": "",
+      "area": "",
+      "nucleo": "",
+      "zona": "",
+      "regiao": "",
+      "doacao": {
+        "ofertaAlcada": "",
+        "dizimo": "",
+        "voto": ""
+      },
+      "cargo": {
+        "membro": "",
+        "diácono(a)": "",
+        "pastor(a)": ""
       },
       "dirigente": "",
       "pastorDeArea": ""
@@ -120,7 +137,7 @@
       "nome": "",
       "numero": "",
       "pastorDeNucleo": "",
-      "foto":""
+      "foto": ""
     }
   ],
   "zonas": [
@@ -128,14 +145,14 @@
       "nome": "",
       "numero": "",
       "pastorDeZona": "",
-      "foto":""
+      "foto": ""
     }
   ],
   "regioes": [
     {
       "nome": "",
       "numero": "",
-      "foto":"",
+      "foto": "",
       "pastorDeRegiao": ""
     }
   ]
