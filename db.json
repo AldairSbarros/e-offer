@@ -60,6 +60,46 @@
       "nucleo": "",
       "zona": ""
     },
+    {
+      "token": "",
+      "nome": "Aldair da Silva Barros",
+      "foto": "",
+      "endereco": {
+        "rua": "Rua São Judas Tadeu",
+        "numero": "290",
+        "complemento": "app 144, bloco G, CD Smile Pq das Flores",
+        "bairro": "Flores",
+        "email": "aldairbarros.dev@gmail.com",
+        "password": "123456",
+        "confirmpassword": "123456"
+      },
+      "telefone": "97991622446",
+      "dataNascimento": "06/09/1974",
+      "filiacao": {
+        "pai": "Dionísio Soares de Barros",
+        "mae": "Angélica da Silva Barros"
+      },
+      "membroDesde": "",
+      "congregacao": "",
+      "area": "",
+      "nucleo": "",
+      "zona": "",
+      "regiao": "",
+      "doacao": {
+        "ofertaAlcada": "",
+        "dizimo": "",
+        "voto": ""
+      },
+      "cargo": {
+        "membro": "",
+        "diácono(a)": "",
+        "pastor(a)": "Sim"
+      },
+      "autorizacao": "",
+      "dirigente": "",
+      "pastorDeArea": "",
+      "tesoureiro": ""
+    },
     [
       {
         "nome": "Templo Central",
