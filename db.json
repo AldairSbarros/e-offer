@@ -43,21 +43,22 @@
     
     "congregacoes": [
       {
+        "id":"",
         "nome":"",
         "numero":"",
-        "complemento":"",
         "foto":"",
         "endereco":{
           "rua": "",
           "nº": "",
           "bairro":"",
+          "complemento":""
+        },
           "areaEclesiastica":"",
           "dirigente":"",
           "pastorArea":"",
           "nucleo":"",
           "zona":""
 
-        }
       }
     ],
 
