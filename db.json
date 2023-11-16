@@ -39,7 +39,23 @@
       }
     ],
     
-  
+    "congregacoes": [
+      {
+        "nome":"",
+        "numero":"",
+        "endereco":{
+          "rua": "",
+          "nº": "",
+          "bairro":"",
+          "areaEclesiastica":"",
+          "dirigente":"",
+          "pastorArea":"",
+          "nucleo":"",
+          "zona":""
+
+        }
+      }
+    ],
 
   "pastores": [
     {
@@ -77,7 +93,7 @@
       "pastorDeArea": ""
     }
   ],
-  "areasEclesiasticas": [
+  "areas": [
     {
       "numero": "",
       "pastor": "",

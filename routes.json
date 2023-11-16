@@ -1,6 +1,6 @@
 {
   "membros": 600,
-  "/areasEclesiasticas*": "/600/areasEclesiasticas$1",
+  "/areas*": "/600/areas$1",
   "/congregacoes*": "/600/congregacoes$1",
   "/pastores*": "/600/pastores$1",
   "/nucleos*": "/600/nucleos$1",
