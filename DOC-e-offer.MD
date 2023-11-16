@@ -143,3 +143,4 @@ o	PUT /regioes/:id: Atualiza uma região existente com base no ID.
 o	DELETE /regioes/:id: Exclui uma região existente com base no ID.
 Por favor, note que esta é uma documentação básica e a implementação real pode variar dependendo das necessidades específicas do seu aplicativo. Se você tiver mais perguntas ou precisar de mais ajuda, por favor, me avise! 😊
 
+https://e-offer.onrender.com
